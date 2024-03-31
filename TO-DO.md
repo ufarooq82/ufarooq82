@@ -7,6 +7,7 @@
 *  [ ] Study Serenity dojo lession about git
 *  [ ] https://expansion.serenity-dojo.com/courses/take/git-fundamentals/lessons/18060791-introduction
 *  [ ]  update log of personal development
+*  [ ]  https://docs.google.com/spreadsheets/d/187-nZeBGYBk1NICw4315Wu8s3NcMYGtn/edit?pli=1#gid=194240974
 > 
 > ## Theme: Test Automation
 > one could mention things here and pin some projects 👇
