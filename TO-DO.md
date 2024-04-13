@@ -4,6 +4,7 @@
 > this could include 
 *  [ ] Think about add git portolio and what to add in your profile , example projects , domain etc
 *  [ ] https://github.com/kingsedem/Test-Automation-Portfolio ^^^
+*  [ ] linux ppt send by Andreas
 *  [x] Study Serenity dojo lession about git
 *  [x] https://expansion.serenity-dojo.com/courses/take/git-fundamentals/lessons/18060791-introduction
 *  [x]  update log of personal development
