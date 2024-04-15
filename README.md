@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 Programming Language: Javascript
 Agile Development: Experienced with BDD, TDD and Scrum
 DevOps: Git, GitHub
-* [ ] TOOLS
-* [ ] DOMIANS BRIEF LIST OF DOMAIN
+* [ ] TOOLS  Intellij IDEA - IDE development environment
+Git - Distributed Version Control system
+GitHub - A provider of Internet hosting for software development and version control using Git
+JIRA - Issue tracking and project management tool
+POSTMAN - Testing tool for REST API
+* [ ] DOMIANS BRIEF LIST OF DOMAIN: Gambling , Healthcare
 * [ ] SAMPLE PROJECTS ---ADD THEM AND ADD THEM PERSONAL REPO---MAKE IT PERSONAL PROJECTS -MOVE TO PERSONAL AREA
 * [ ] AREAS TO MOVE IN -- OPTIONAL- EXAMPLE CODE, AUTOMATION, COMMIT MESSAGES 
 * [ ] PICTURES - ANYTHING
