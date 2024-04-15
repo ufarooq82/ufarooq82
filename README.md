@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  
 An ambitious self-motivated QA engineer with 4 years of experience and a passion for automation. Proven ability to develop and implement test plans, scripts, and tools that improve the quality of software products. Skilled in black-box and white-box testing, Test Cafe, and API testing. Key achievements: Found bugs in early phase of project. Implemented Agile testing in project. Shorter the release time from 5 days to 2 days.
 
-* [ ] SKILLS
+> ## SKILLS
       
 -Programming Language: Javascript
 
@@ -41,7 +41,7 @@ An ambitious self-motivated QA engineer with 4 years of experience and a passion
 
 -DevOps: Git, GitHub
 
-* [ ] TOOLS
+> ## TOOLS
 
 Intellij IDEA - IDE development environment
 
@@ -53,7 +53,7 @@ JIRA - Issue tracking and project management tool
 
 POSTMAN - Testing tool for REST API
 
-* [ ] DOMIANS BRIEF LIST OF DOMAIN:
+> ## DOMIANS BRIEF LIST OF DOMAIN:
 
 Gambling, Healthcare
 
