@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 
 * [ ] talk about what to show on the profile
 * [ ] see also https://github.com/kingsedem/Test-Automation-Portfolio
-* [ ] Add ABOUT ME
+* [ ] Add ABOUT ME 
 * [ ] SKILLS
+Programming Language: Java
+Agile Development: Experienced with BDD, TDD and Scrum
+DevOps: Git, GitHub
 * [ ] TOOLS
 * [ ] DOMIANS BRIEF LIST OF DOMAIN
 * [ ] SAMPLE PROJECTS ---ADD THEM AND ADD THEM PERSONAL REPO---MAKE IT PERSONAL PROJECTS -MOVE TO PERSONAL AREA
