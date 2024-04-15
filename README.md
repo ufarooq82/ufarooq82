@@ -66,6 +66,9 @@ Each one is designed as a stand-alone tutorial so that others can learn from my 
 > ## Agile and BDD Requirements Discovery
 The goal of this exercise was to analyze the following user requirement, to define a set of business rules and key examples and counter-examples, and to write a set of executable specifications corresponding to these rules and examples
 
+This repository contains a sample solution to the final exercise in the Serenity Dojo [BDD Requirements Discovery Training](https://expansion.serenity-dojo.com/courses/agile-requirements-discovery-blueprint) course.
+
+
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
 * [ ] https://app.mural.co/t/williamhill8008/m/williamhill8008/1703408440912/d2a13b565374213da87dbbb9a45476c9c50f3f63?sender=u5f805037fa58e2f494b09999
 
