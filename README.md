@@ -53,11 +53,20 @@ JIRA - Issue tracking and project management tool
 
 POSTMAN - Testing tool for REST API
 
-> ## DOMIANS BRIEF LIST OF DOMAIN:
+> ## DOMAINS BRIEF LIST OF DOMAIN:
 
 Gambling, Healthcare
 
 > ## SAMPLE PROJECTS
+
+These projects illustrate my learning journey in the Test Automation world. 
+
+Each one is designed as a stand-alone tutorial so that others can learn from my experience.
+
+> ## Agile and BDD Requirements Discovery
+* [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
+
+
 
 * [ ] ---ADD THEM AND ADD THEM PERSONAL REPO---MAKE IT PERSONAL PROJECTS -MOVE TO PERSONAL AREA
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
