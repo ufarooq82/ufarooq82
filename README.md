@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 * [ ] see also https://github.com/kingsedem/Test-Automation-Portfolio
 * [ ] Add ABOUT ME An ambitious self-motivated QA engineer with 4 years of experience and a passion for automation. Proven ability to develop and implement test plans, scripts, and tools that improve the quality of software products. Skilled in black-box and white-box testing, Test Cafe, and API testing. Key achievements: Found bugs in early phase of project. Implemented Agile testing in project. Shorter the release time from 5 days to 2 days.
 * [ ] SKILLS
-Programming Language: Javascript
-Agile Development: Experienced with BDD, TDD and Scrum
-DevOps: Git, GitHub
+-Programming Language: Javascript
+-Agile Development: Experienced with BDD, TDD and Scrum
+-DevOps: Git, GitHub
 * [ ] TOOLS  Intellij IDEA - IDE development environment
 Git - Distributed Version Control system
 GitHub - A provider of Internet hosting for software development and version control using Git
