@@ -64,10 +64,16 @@ These projects illustrate my learning journey in the Test Automation world.
 Each one is designed as a stand-alone tutorial so that others can learn from my experience.
 
 > ## Agile and BDD Requirements Discovery
+The goal of this exercise was to analyze the following user requirement, to define a set of business rules and key examples and counter-examples, and to write a set of executable specifications corresponding to these rules and examples
+
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
 
 
-> ## Journey Mapping 
+> ## Journey Mapping
+
+Combination of use cases, Feature mapping and example mapping
+We use it as a way what determine the main features of application
+
 * [ ] https://miro.com/app/board/uXjVNiuZ6Q8=/#tpicker-content
 
 
