@@ -67,6 +67,10 @@ Each one is designed as a stand-alone tutorial so that others can learn from my 
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
 
 
+> ## Journey Mapping 
+* [ ] https://miro.com/app/board/uXjVNiuZ6Q8=/#tpicker-content
+
+
 
 * [ ] ---ADD THEM AND ADD THEM PERSONAL REPO---MAKE IT PERSONAL PROJECTS -MOVE TO PERSONAL AREA
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
