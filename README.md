@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 * [ ] talk about what to show on the profile
 * [ ] see also https://github.com/kingsedem/Test-Automation-Portfolio
 * [ ] Add ABOUT ME
+* [ ] 
 An ambitious self-motivated QA engineer with 4 years of experience and a passion for automation. Proven ability to develop and implement test plans, scripts, and tools that improve the quality of software products. Skilled in black-box and white-box testing, Test Cafe, and API testing. Key achievements: Found bugs in early phase of project. Implemented Agile testing in project. Shorter the release time from 5 days to 2 days.
+
 * [ ] SKILLS
       
 -Programming Language: Javascript
