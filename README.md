@@ -37,12 +37,22 @@ Here are some ideas to get you started:
 
 -DevOps: Git, GitHub
 
-* [ ] TOOLS  Intellij IDEA - IDE development environment
+* [ ] TOOLS
+
+Intellij IDEA - IDE development environment
+
 Git - Distributed Version Control system
+
 GitHub - A provider of Internet hosting for software development and version control using Git
+
 JIRA - Issue tracking and project management tool
+
 POSTMAN - Testing tool for REST API
-* [ ] DOMIANS BRIEF LIST OF DOMAIN: Gambling , Healthcare
+
+* [ ] DOMIANS BRIEF LIST OF DOMAIN:
+
+Gambling, Healthcare
+
 * [ ] SAMPLE PROJECTS ---ADD THEM AND ADD THEM PERSONAL REPO---MAKE IT PERSONAL PROJECTS -MOVE TO PERSONAL AREA
 * [ ] https://github.com/ufarooq82/Pilot-Medicals-BDD.git
 * [ ] AREAS TO MOVE IN -- OPTIONAL- EXAMPLE CODE, AUTOMATION, COMMIT MESSAGES 
